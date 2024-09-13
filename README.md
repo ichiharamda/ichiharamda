@@ -9,8 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
-<br>
+- 📫 How to reach me:
 
 
 <!-- 3. 好きな技術スタックに変更 -->
