@@ -11,7 +11,6 @@ I'm a passionate backend engineer with a love for scalable systems and cutting-e
 - 🧑‍💻 **Backend Engineer** focused on cloud-native architectures.
 - 🌱 Currently learning **Go**, improving containerization skills with **Docker**, and working with **Kubernetes**.
 - 💬 Ask me about **Microservices**, **API development**, and **Infrastructure as Code**.
-- 📫 Reach me: [Your Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-linkedin) | [Twitter](https://twitter.com/your-twitter)
 - ⚡ Fun fact: I enjoy building personal projects in my free time!
 
 <!-- 3. 好きな技術スタックに変更 -->
@@ -20,20 +19,16 @@ I'm a passionate backend engineer with a love for scalable systems and cutting-e
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ichiharamda&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichiharamda&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
-<!-- 4. 好きな言語の割合表示 -->
 ## 📊 Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiharamda&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
+
 
 
