@@ -15,7 +15,7 @@ I'm a passionate backend engineer with a love for scalable systems and cutting-e
 
 <!-- 3. 好きな技術スタックに変更 -->
 ## 🚀 My Tech Stack
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp,kubernetes,linux,git,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,C,python,fastapi,go,docker,terraform,aws,gcp,kubernetes,linux,git,github" />
 
 ## 📈 GitHub Stats
 <div align="center">
